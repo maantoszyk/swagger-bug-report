@@ -1,0 +1,6 @@
+@DictionaryIssueMinimalExample_HostAddress = http://localhost:5259
+
+GET {{DictionaryIssueMinimalExample_HostAddress}}/Category
+Accept: application/json
+
+###
